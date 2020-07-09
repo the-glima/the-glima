@@ -1,11 +1,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/1394578/87028626-2b818e00-c1df-11ea-8823-d52ef9fac65b.png" width="150" height="150"></p>
 <h1 align="center">Hi, I'm Gabriel Lima :pineapple:</h1>
-<h2 align="center">I build things for the web and love what I do<br>
-  Mainly focused on Front-end Development with a good UI/UX eye and always trying different things.
+<h2 align="center">I build things for the web and love what I do. <br><br>
+  Mainly focused on Front-end Development with a good UI/UX eye and always trying different things.<br><br>
 </h2>
 
-
-----
 
 > Pronouns: he/el/ele #BlackLivesMatter #ForaBolsonaro
 
