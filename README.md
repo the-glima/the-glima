@@ -11,16 +11,15 @@ I started working with web development in 2011, studied Web and Multimedia and a
 
 My tech stack (or things I like): 
 - JavaScript / TypeScript
-- HTML
 - CSS / SCSS
+- HTML
 - Web Components
-- Jest
-- Cypress
+- Angular, React, Vue, Svelte
+- Jest / Cypress
 - Bash Script
 - VS Code
 - Git
-- iTerm
-- Zshell
+- iTerm / Zshell
 - VS Code
 - Worked with Linux and Windows but I love Unix Environment (macOS)
 - UI/UX
