@@ -2,9 +2,8 @@
 <h2 align="center">Hi, I'm Gabriel Lima</h2>
 <h3 align="center">Front-end Developer</h3><br><br>
 
-You can find me at [@__glima](https://twitter.com/__glima) on Twitter where I tweet mostly about Front-end Development and Web Development.
-
-For my detailed work experience you can check my [LinkedIn Profile](https://www.linkedin.com/in/gabriel--lima/).
+#### Where you can find me
+On Twitter at [@__glima](https://twitter.com/__glima), where I tweet mostly about Front-end Development and Web Development. And on [LinkedIn](https://www.linkedin.com/in/gabriel--lima/). you can check my detailed work experience.
 
 #### My tech stack
 JavaScript/TypeScript, CSS/SCSS, HTML, Web Components, Angular, React, Vue, Jest/Cypress/Postman, Bash Script, VSCode, Git, iTerm/Zshell, Worked with Linux and Windows but I love Unix Environment (macOS), UI/UX, Docker, CI/CD, Functional Programming, Design Patterns, SOLID, KISS, DRY and POLA.
