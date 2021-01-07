@@ -1,7 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/1394578/87028626-2b818e00-c1df-11ea-8823-d52ef9fac65b.png" width="150" height="150"></p>
-<h2 align="center">Hi, I'm Gabriel Lima</h2>
-<h3 align="center"><small>Front-end Developer</small></h3>
-
+<h2 align="center">Hi, I'm Gabriel Lima</h2><br>
+<h3 align="">Front-end Developer</h3>
 
 You can find me at [@__glima](https://twitter.com/__glima) on Twitter where I tweet mostly about Front-end Development and Web Development.
 For my detailed work experience you can check my [LinkedIn Profile](https://www.linkedin.com/in/gabriel--lima/).
