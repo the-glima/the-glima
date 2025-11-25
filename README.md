@@ -1,13 +1,7 @@
 # Hello, World
-![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndheHF2ZnpzeDM4cXRnZThnb3RlcWtkMml6N3R2NW9kOHZ0ZGVjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k1Psl92gw7YPSPYFKm/giphy.gif)
-
-Helping robots to steal all the jobs.
 
 Mainly focused on Front-end Development with a good UI/UX eye and always trying different things.
 
-## Where you can find me
-- Twitter [@__glima](https://twitter.com/__glima)
-- LinkedIn [gabriel--lima](https://www.linkedin.com/in/gabriel--lima/)
 
 ### Some facts:
 - ☕ &nbsp;I do like coffee but I'm not a typical (addicted) coffee lover like many developers claims to be
@@ -18,4 +12,8 @@ Mainly focused on Front-end Development with a good UI/UX eye and always trying 
 - 🏳️ &nbsp;In the JS famework war I support JavaScript
 - 🗣️ &nbsp;I speak 3 languages (English, Spanish and Portuguese) and also JavaScript.
 
-> Pronouns: he/him/his/el/ele
+
+### Where you can find me
+- [LinkedIn](https://www.linkedin.com/in/gabriel--lima/)
+- [Spotify](https://open.spotify.com/playlist/2nbyGPsu5UjhwzIwHkL1ZF?si=eLDVmJ8xSLOOA57mWuHDKQ&nd=1&dlsi=67398548bccc42d6)
+- [Moxfield](https://moxfield.com/users/HyperBolic)
