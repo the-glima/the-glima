@@ -1,5 +1,5 @@
 # Hello, World
-![image]([https://media.giphy.com/media/PSKAppO2LH56w/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndheHF2ZnpzeDM4cXRnZThnb3RlcWtkMml6N3R2NW9kOHZ0ZGVjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k1Psl92gw7YPSPYFKm/giphy.gif))
+![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndheHF2ZnpzeDM4cXRnZThnb3RlcWtkMml6N3R2NW9kOHZ0ZGVjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k1Psl92gw7YPSPYFKm/giphy.gif)
 
 Helping robots to steal all the jobs.
 
